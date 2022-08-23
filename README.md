@@ -1,3 +1,3 @@
 # ogni
 
-NPM package
+NPM package for learning
