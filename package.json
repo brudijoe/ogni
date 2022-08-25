@@ -1,4 +1,5 @@
 {
+  "author": "Ingo Speckens <ingo.speckens@gmail.com> (ingo.speckens@gmail.com)",
   "name": "ogni",
   "version": "1.0.0",
   "description": "NPM package",
@@ -11,7 +12,6 @@
     "url": "git+https://github.com/brudijoe/ogni.git"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/brudijoe/ogni/issues"
