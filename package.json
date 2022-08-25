@@ -1,7 +1,7 @@
 {
   "author": "Ingo Speckens <ingo.speckens@gmail.com> (ingo.speckens@gmail.com)",
   "name": "ogni",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM package",
   "main": "index.js",
   "scripts": {
